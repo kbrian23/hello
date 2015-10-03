@@ -36,7 +36,7 @@
 var ns4 = document.layers;
 
 var ns6 = document.getElementById && !document.all;
-<p><font color="#FFFFFF">SEARCH</font></p>
+<p>&nbsp;</p>
   </td></tr>
 
 
@@ -47,7 +47,7 @@ var ns6 = document.getElementById && !document.all;
 <!-- ============ LEFT COLUMN (MENU) ============== -->
   <td width="20%" valign="top" bgcolor="#9933FF">
     <p>&nbsp;</p>
-	<h4 align="center"><a href="index3.php"><img src="images/back36.png" /></a></h4>
+	<h4 align="center"><a href="index3.php"></a></h4>
     <p>&nbsp;</p>
     <h4 align="center"><br />
         <a href="#"></a><br />
@@ -56,20 +56,77 @@ var ns6 = document.getElementById && !document.all;
       <a href="#"></a></h4>
     <!-- ============ MIDDLE COLUMN (CONTENT) ============== -->
 <td width="58%" valign="top" bgcolor="#0033FF">
-
-<h2 align ="center" class="style2 style1" ><font color="#FFFFFF">SLAU ACCOUNTING MANAGEMENT SYSTEM</font></h2>
-<p align ="center" class="style2" >&nbsp;</p>
-<h3 align="center"><font color="#FFFF00">Who we are</font></h3>
-<p align="left"><font color="#FFFF00">Our quality Policy:</font></p>
-<p align="left">We are young, qualified, experienced and dedicated group of professionals and technical experts providing all kinds of Informational Technology based Accounting services such as design of electronic payrolls for both staff and non-staff and many more.</p>
-<p align="left">We are committed to creating value for both students, staff and non-staff of SLAU through our Informational Technology based Accounting services.</p>
-<p align="left">However, students will be able to upload their BANK DRAFTS and this in the end result will bring ease for students and Accounts departments as far as time saving is concerned.</p>
-<p align="left"><font color="#FFFF00">Our Mission:</font></p>
-<p align="left">We shall provide sustainable, advanced technological Accounting services to both students and Accountants' Department at St Lawrence University as far as managing staff, non-staff payrolls and other related University budgets. </p>
-<p align="left">&nbsp;</p>
-<p align="center">&nbsp;</p>
-<h4 align ="center"><font color="#FFFF00"> </font></h4>
-<p><font color="#FF0000"></td>
+ <p align="center" class="style3"><strong>Only Registered students of SLAU should enter the following details </strong></p>
+ <p align="center" class="style3">&nbsp;</p>
+ <p align="center" class="style3">&nbsp;</p>
+ <p align="center" class="style3">&nbsp;</p>
+ <table width="392" border="0" align="center">
+  
+  
+  <tr>
+    <td width="115">First Name </td>
+    <td width="218"><form id="form1" name="form1" method="post" action="">
+      <label>
+        <input type="text" name="textfield" />
+        </label>
+    </form>    </td>
+  </tr>
+  <tr>
+    <td>Second Name </td>
+    <td><form id="form2" name="form2" method="post" action="">
+      <label>
+        <input type="text" name="textfield2" />
+        </label>
+    </form>    </td>
+  </tr>
+  <tr>
+    <td>Registration Number </td>
+    <td><form id="form3" name="form3" method="post" action="">
+      <label>
+        <input type="text" name="textfield3" />
+        </label>
+    </form>    </td>
+  </tr>
+  <tr>
+    <td>Faculty</td>
+    <td><form id="form4" name="form4" method="post" action="">
+      <label>
+        <input type="text" name="textfield4" />
+        </label>
+    </form>    </td>
+  </tr>
+  <tr>
+    <td>Course</td>
+    <td><form id="form5" name="form5" method="post" action="">
+      <label>
+        <input type="text" name="textfield5" />
+        </label>
+    </form>    </td>
+  </tr>
+  <tr>
+          <td>Upload Bankdraft</td>
+                  <td><label for="fileField"></label>
+                    <input type="file" name="fileField" id="fileField" /> 
+          <label for="textfield6"></label></td>
+                </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><form id="form6" name="form6" method="post" action="">
+      <label>
+        <input type="reset" name="Reset" value="Reset" />
+        </label>
+      <label>
+      <input type="submit" name="Submit2" value="Send" />
+      </label>
+    </form>
+    </td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2 align ="center" class="style2 style1" >&nbsp;</h2>
+</td>
 <td width="22%" valign="top" bgcolor="#9933FF">
 
 <p align="center" class="style1">&nbsp;</p>
